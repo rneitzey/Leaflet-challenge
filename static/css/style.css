@@ -1,0 +1,30 @@
+body {
+  padding: 0;
+  margin: 0;
+}
+
+#map,
+body,
+html {
+  height: 100%;
+}
+
+.legend {
+  background-color: white;
+  padding: 0px 10px 0px 10px;
+}
+
+.legend ul {
+  list-style-type: none;
+  padding-left: 0;
+}
+
+.legend ul li {
+  vertical-align: text-top;
+  margin-top: -3px;
+}
+
+svg {
+  padding-right: 5px;
+  vertical-align: text-top;
+}
